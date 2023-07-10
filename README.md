@@ -1,0 +1,2 @@
+# DotnetCore
+Dotnet Core Assessment
